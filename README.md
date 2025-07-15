@@ -1,4 +1,4 @@
-# Reddit Persona Generator 🧩
+# Persona Reddit App 🧩
 
 A Python tool that retrieves and examines a Reddit user’s posts and comments, powered by **Gemini Pro (LLM)**, to craft an insightful **User Persona**—complete with clear citations linking each personality trait to the original Reddit content.
 
