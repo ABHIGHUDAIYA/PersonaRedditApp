@@ -29,7 +29,7 @@ A Python tool that retrieves and examines a Reddit user’s posts and comments, 
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/ABHIGHUDAIYA/PersonaRedditApp]
+git clone https://github.com/ABHIGHUDAIYA/PersonaRedditApp
 cd reddit-persona-generator
 ```
 
