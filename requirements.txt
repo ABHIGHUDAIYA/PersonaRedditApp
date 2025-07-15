@@ -1,0 +1,8 @@
+# === Core packages ===
+praw~=7.7          # Reddit API wrapper
+
+# === Environment handling ===
+python-dotenv>=1.0 # Loads keys from .env
+
+# === Google Generative AI (Gemini) ===
+google-generativeai==0.5.*
